@@ -1,0 +1,15 @@
+{
+    "name": "bbrice/pokemon_poo",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benoit BRICE",
+            "email": "benoit.brice@iddeos.fr"
+        }
+    ],
+    "require": {}
+}
